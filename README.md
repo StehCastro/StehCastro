@@ -10,7 +10,6 @@
    <img align="center" alt="Steh-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Steh-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />    
   <img align="center" alt="Steh-Py" height="30" width="40"src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-![Hello Kitty](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 
   </div>
