@@ -10,9 +10,6 @@
    <img align="center" alt="Steh-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Steh-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />    
   <img align="center" alt="Steh-Py" height="30" width="40"src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-
-##
-   <div style="display: inline_block"><br>
   <img align="right"alt="StehPy"height="30"width="40"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdoZmprNHR1eDIxdjE3OGR6Y3kxZWtibjAyYW10cXdpMHF0Z3lkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif"/>
 
   </div>
