@@ -1,4 +1,4 @@
-## Olá eu sou a Stephanie Castro 👋
+## Olá eu sou a Stephanie Castro ✨
 
 - 🔭 Hoje eu trabalho com Ciência de dados 
 - 🌱 Estudando Python
